@@ -1,6 +1,6 @@
-# {{PROJECT_NAME}}
+# workflows
 
-> {{PROJECT_DESCRIPTION}}
+> Shared automation workflows, CI/CD pipelines and engineering processes.
 
 ---
 
